@@ -9,13 +9,13 @@ Users can browse, search, and manage books, as well as handle secure API operati
 
 Here’s how the BookStore App looks:
 
-### 🏠 Homepage
+### 🏠 LOGIN
 ![Login](https://github.com/aryan13071/bookStoreApp/blob/0a6e20a1246549d0c33f6ff0d68ac5d752966f08/Screenshot%20(396).png?raw=true)
 
-### 📚 Course Page
+### 📚 HOME PAGE
 ![Authentication](https://github.com/aryan13071/bookStoreApp/blob/0a6e20a1246549d0c33f6ff0d68ac5d752966f08/Screenshot%20(397).png?raw=true)
 
-### 🧑‍💻 About Section
+### 🧑‍💻 EXPLORE
 ![full site ](https://github.com/aryan13071/bookStoreApp/blob/0a6e20a1246549d0c33f6ff0d68ac5d752966f08/Screenshot%20(398).png?raw=true)
 
 
