@@ -35,25 +35,39 @@ cd bookStoreApp
 
 
 cd Backend
+
 npm install
+
 npm start
+
 The backend runs on http://localhost:4001
 
 3. Start the Frontend
+   
 In a new terminal:
 
 cd Frontend
+
 npm install
+
 npm run dev
+
 The frontend runs on http://localhost:5173
 
 💡 Features
+
 📖 Browse books with detailed views
+
 🔍 Search functionality
+
 🎨 Responsive UI with Tailwind + DaisyUI
+
 🔒 Secure backend APIs with MongoDB
+
 📦 RESTful structure for scalability
 
 📬 Contact
+
 Created by Aryan Singh
+
 📧 coderaryan2005@gmail.com
